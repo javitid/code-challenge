@@ -1,0 +1,9 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Telefonica Code Challenge",
+  "main": "index.js",
+  "repository": "https://github.com/javitid/code-challenge",
+  "author": "Javier Garcia <javitid@gmail.com>",
+  "license": "MIT"
+}
